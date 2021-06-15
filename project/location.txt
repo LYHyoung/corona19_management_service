@@ -1,0 +1,5 @@
+location Korea Japan USA Canada
+Korea Seoul Busan Incheon
+Japan Tokyo Kyoto Sapporo
+USA NY LA WDC
+Canada Toronto Vancouver Calgary

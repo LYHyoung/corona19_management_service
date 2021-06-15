@@ -1,0 +1,4 @@
+product meat fruit vegetable
+meat pork beef chicken duck
+fruit apple pear kiwi grape
+vegetable onion carrot lettuce cabbage
