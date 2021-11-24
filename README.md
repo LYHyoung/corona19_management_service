@@ -1,1 +1,1 @@
-# OOP_project
+# CORONA19 management service
